@@ -217,7 +217,7 @@ footer .lastone{
  font-size: 18px;
 }
 
-/* aq iwereba meore gvedis styilebi */
+/* aq iwereba meore gvedis stylebi */
 
 .page2one {
    width: 280px;
@@ -239,11 +239,21 @@ footer .lastone{
 .musicc{
     width: 260px;
     height: 64px;
-    margin: 46px auto;
+    margin: auto;
     background-image: url(../img/sound.png);
     background-size: 25%;
     background-repeat: repeat-x;
-    float: left;
+    clear: both;
+    
+    
 }
 
- 
+.margin{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+
+
+
