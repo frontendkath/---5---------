@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: 0;
+    list-style-type: none;
+}
+
+
+header h1{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/music-note.png);
+    float: left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-indent: -99999px;
+    margin-right: 168px;
+    
+    
+
+
+}
+
+header h1 a{
+    display: block;
+    width: 70px;
+    height: 70px;
+    
+    
+}
+
+header{
+    padding: 12px 100px;
+    background-color: #000000;
+    height: 94px;
+    width: 1440px;
+    float: both;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+  
+}
+
+
+header li{
+    float: left;
+    margin: 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+    
+}
+header li a{
+    color: #FFFFFF;
+   
+
+}
+
+body{
+    margin-top: 50px;
+    margin-left: 108;
+}
+
+.social{
+    width: 40px;
+    height: 120px;
+    right: 0;
+    top: 212px;
+    position: fixed;
+    z-index: 2;
+    
+    
+}
+
+
+.social .facebook, .social .instagram{
+    width: 100%;
+    height: 20;
+    overflow: hidden;
+}
+
+.social .facebook img,
+.social .instagram img{
+    width: 100%;
+}
+main{
+    padding-top: 50px;
+    padding-left: 110px;
+    padding-bottom: 100px;
+   
+}
+.satauri1 p{
+   color: #000000;
+   clear: both;
+}
+
+
+.satauri1{
+    font-size: 24px;
+    
+    
+}
+
+.satauri1 .status1{
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+    margin-left: 50px;
+    
+}
+
+
+.box{
+    width: 300px;
+    height: 244px;
+    border: solid 1px black;
+    position: relative;
+    float: left;
+    margin: 55px;
+    margin-top: 50px;
+
+    
+}
+
+.box .classlogo{
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+
+}
+
+.box img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: -4px;
+    right: 0;
+   
+}
+
+.sound1{
+    width: 296px;
+    height: 136px;
+    background-image: url(../img/sound.png);
+    background-repeat: repeat-x;
+    background-size: 25%;
+    margin: -50px auto;
+    background-position-y: 56px;
+}
+
+.title1 .trakfirst{
+    margin-top: 64px;
+    margin-left: 12px;
+}
+
+.title1 .second{
+    font-size: 14px;
+    padding-top: 12px;
+    margin-left: 15px;
+    margin-bottom: 48px;}
+
+
+.classp{
+    font-size: 12px;
+    
+}
+
+.classp a{
+    color: rgba(0, 0, 0, 1);
+}
+
+footer{
+    
+    clear: both;
+    width: 100%;
+    height: 354px;
+    background-color: #000000;
+    z-index: 0;
+    
+}
+
+footer img{
+    
+    width: 150px;
+    height: 150px;
+    margin-left: 606px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+    
+}
+
+footer li {
+    text-align: center;
+    
+
+
+    
+}
+
+footer li a{
+    color: #fdfdfd;
+    font-size: 18px;
+    
+    
+}
+
+footer p{
+    color: #fcfcfc;
+    
+
+}
+
+footer .lastone{
+ text-align: center;
+ margin-top: 50px;
+ 
+ font-size: 18px;
+}
+
+/* aq iwereba meore gvedis styilebi */
+
+.page2one {
+   width: 280px;
+   height: 360px;
+   background-color: #FFFFFF;
+   float: left;
+   margin-right: 156px;
+}
+
+.page2one p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+.page2one li{
+    font-size: 18px;
+}
+
+.musicc{
+    width: 260px;
+    height: 64px;
+    margin: 46px auto;
+    background-image: url(../img/sound.png);
+    background-size: 25%;
+    background-repeat: repeat-x;
+    float: left;
+}
+
+ 
